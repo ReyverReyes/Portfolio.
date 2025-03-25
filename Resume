@@ -1,0 +1,106 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Reyver Reyes - Resume</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f4;
+        }
+        .container {
+            width: 80%;
+            max-width: 800px;
+            margin: 20px auto;
+            padding: 20px;
+            background: white;
+            box-shadow: 0 0 10px rgba(0,0,0,0.1);
+        }
+        h1, h2, h3 {
+            color: #333;
+        }
+        .contact {
+            background: #333;
+            color: white;
+            padding: 10px;
+            text-align: center;
+        }
+        .contact a {
+            color: #f4f4f4;
+            text-decoration: none;
+        }
+        .skills, .experience {
+            margin-top: 20px;
+        }
+        ul {
+            list-style: none;
+            padding: 0;
+        }
+        ul li {
+            background: #e4e4e4;
+            margin: 5px 0;
+            padding: 8px;
+            border-radius: 5px;
+        }
+    </style>
+</head>
+<body>
+
+    <div class="container">
+        <h1>Reyver Vendivel Reyes</h1>
+        <h3>Technical Support | Customer Service | Virtual Assistant</h3>
+        
+        <p>Dedicated and results-driven professional with experience in customer service, technical support, and virtual assistance. Skilled in troubleshooting, CRM tools, and proactive problem-solving.</p>
+
+        <h2>Skills</h2>
+        <ul class="skills">
+            <li>Customer Service & Retention</li>
+            <li>Technical Support & Troubleshooting</li>
+            <li>CRM Software (Salesforce)</li>
+            <li>Data Analysis</li>
+            <li>Email & Appointment Management</li>
+            <li>Windows & Remote Support</li>
+            <li>Leadership & Team Collaboration</li>
+        </ul>
+
+        <h2>Work Experience</h2>
+        <div class="experience">
+            <h3>VXI Global Solutions (Brightspeed) - Customer Care & Sales</h3>
+            <p>2023 – 2025 | Clark, Pampanga</p>
+            <ul>
+                <li>Handled customer inquiries and provided technical support.</li>
+                <li>Managed billing issues and ensured customer satisfaction.</li>
+                <li>Met sales goals and retained customers through personalized service.</li>
+            </ul>
+
+            <h3>Concentrix (Dell Technical Support)</h3>
+            <p>2021 – 2023 | Clark, Pampanga</p>
+            <ul>
+                <li>Resolved technical issues for customers via phone and email.</li>
+                <li>Offered remote desktop support and troubleshooting.</li>
+                <li>Maintained high customer satisfaction scores.</li>
+            </ul>
+
+            <h3>KFC Waltermart Gapan - Customer Support</h3>
+            <p>2019 – 2020 | Gapan, Nueva Ecija</p>
+            <ul>
+                <li>Assisted customers and processed transactions.</li>
+                <li>Ensured customer satisfaction and smooth store operations.</li>
+            </ul>
+        </div>
+
+        <h2>Education</h2>
+        <p><strong>BA in Political Science (Pre-Law)</strong> - Gapan City College (2023)</p>
+
+        <h2>Contact</h2>
+        <div class="contact">
+            <p>Email: <a href="mailto:reyesreyver22@gmail.com">reyesreyver22@gmail.com</a></p>
+            <p>Phone: +63 999 873 0366</p>
+        </div>
+    </div>
+
+</body>
+</html>
