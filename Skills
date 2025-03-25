@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Reyver Reyes - Skills</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f4;
+        }
+        .container {
+            width: 80%;
+            max-width: 800px;
+            margin: 20px auto;
+            padding: 20px;
+            background: white;
+            box-shadow: 0 0 10px rgba(0,0,0,0.1);
+            text-align: center;
+        }
+        h1, h2 {
+            color: #333;
+        }
+        .skills {
+            display: flex;
+            flex-wrap: wrap;
+            justify-content: center;
+            gap: 10px;
+        }
+        .skill {
+            background: #007bff;
+            color: white;
+            padding: 10px 15px;
+            border-radius: 5px;
+            font-size: 16px;
+            font-weight: bold;
+        }
+    </style>
+</head>
+<body>
+
+    <div class="container">
+        <h1>Reyver Vendivel Reyes</h1>
+        <h2>Skills & Expertise</h2>
+        
+        <div class="skills">
+            <div class="skill">Customer Service & Retention</div>
+            <div class="skill">Technical Support & Troubleshooting</div>
+            <div class="skill">CRM Software (Salesforce)</div>
+            <div class="skill">Data Analysis</div>
+            <div class="skill">Email & Appointment Management</div>
+            <div class="skill">Windows & Remote Support</div>
+            <div class="skill">Leadership & Team Collaboration</div>
+            <div class="skill">Problem Solving & Decision Making</div>
+            <div class="skill">Microsoft Office (Word, Excel, Outlook)</div>
+            <div class="skill">Bilingual (English & Tagalog)</div>
+        </div>
+    </div>
+
+</body>
+</html>
